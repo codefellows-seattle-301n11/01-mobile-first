@@ -21,7 +21,7 @@ Complete [today's Kata](https://www.codewars.com/kata/abbreviate-a-two-word-name
 
 ## Lab 01
 
-Welcome to your first lab assignment for Code 301!!
+Welcome to your first (official) lab assignment for Code 301!!
 
 Today we'll be kicking off our blog app by applying what we learned in lecture to implement a mobile-first design using responsive web design techniques. You'll also need to spend some time getting familiar with the new Git/GitHub & Pair Programming workflow that we'll utilize throughout this course.
 
